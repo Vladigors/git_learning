@@ -48,3 +48,4 @@ cm.sin(1)
 (0.8414709848078965+0j)
 m.sin(1)
 0.8414709848078965
+# stop at 47 minute & go to sleep
