@@ -38,3 +38,7 @@ from cmath import *
 from math import *
 sin(1) # sinus 1 - вещественное число
 0.8414709848078965 # - даёт вещественное число
+help(sin)
+Help on built-in function sin in module math:
+sin(x, /)
+    Return the sine of x (measured in radians). # возвращает синус х измеренный в радианах
