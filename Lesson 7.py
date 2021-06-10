@@ -42,3 +42,9 @@ help(sin)
 Help on built-in function sin in module math:
 sin(x, /)
     Return the sine of x (measured in radians). # возвращает синус х измеренный в радианах
+import cmath as cm
+import math as m
+cm.sin(1)
+(0.8414709848078965+0j)
+m.sin(1)
+0.8414709848078965
