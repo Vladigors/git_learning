@@ -1,4 +1,3 @@
-
 def draw_house(x, y, width, height):
     """   # Набираем тройные двойные кавычки + Enter между ними
     Функция, рисует домик полной ширины width и высоты height
@@ -12,6 +11,7 @@ def draw_house(x, y, width, height):
     """
     print('Типа рисую домик...', x, y, width, height)
     pass  # do nothing
+
 
 x, y = 100, 100
 width, height = 200, 200
